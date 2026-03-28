@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Satyam Sharma 👋
 
-<!--
-**satyamsh04/satyamsh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Computer Science (AI Major)** — Griffith University, Gold Coast  
+💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**  
+🌏 Based in **Gold Coast, Queensland, Australia**  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+`Python` `JavaScript` `Java` `Machine Learning` `SQL` `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 University Projects
+| Repository | Status |
+|------------|--------|
+| [.ipynb-checkpoints](https://github.com/satyamsh04/.ipynb-checkpoints) | ✅ |
+| [ds4windows-v3.2.8](https://github.com/satyamsh04/ds4windows-v3.2.8) | ✅ |
+| [in-trimester-test-2024](https://github.com/satyamsh04/in-trimester-test-2024) | ✅ |
+| [items](https://github.com/satyamsh04/items) | ✅ |
+| [lab5](https://github.com/satyamsh04/lab5) | ✅ |
+| [mern-social-media-master](https://github.com/satyamsh04/mern-social-media-master) | ✅ |
+| [week8-project](https://github.com/satyamsh04/week8-project) | ✅ |
+| [workshop-6-material-partial](https://github.com/satyamsh04/workshop-6-material-partial) | ✅ |
+
+## 📫 Connect
+- 💼 Open to **Graduate roles** in AI/Software Engineering
+- 📧 Reach me via GitHub Issues or LinkedIn
