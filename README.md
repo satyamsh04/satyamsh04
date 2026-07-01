@@ -40,7 +40,7 @@ AI engineering graduate building multi-agent systems, LLM evaluation pipelines, 
 
 ## Education
 
-Bachelor of Computer Science (Data Science focus) — Griffith University · GPA 4.83 · Graduating Nov 2026
+Bachelor of Computer Science (Data Science focus) — Griffith University · GPA 5.1 · Graduating Nov 2026
 
 ---
 
