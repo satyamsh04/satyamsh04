@@ -1,6 +1,6 @@
 # Satyam Sharma
 
-AI engineering graduate building multi-agent systems, LLM evaluation pipelines, and production AI tooling. Based in Sydney, Australia — open to graduate AI/ML engineering roles in 2026.
+AI engineering graduate building multi-agent systems, LLM evaluation pipelines, and production AI tooling. Based in Gold Coast, Australia — open to graduate AI/ML engineering roles in 2026.
 
 ---
 
