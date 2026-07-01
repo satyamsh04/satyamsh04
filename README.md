@@ -46,7 +46,6 @@ Bachelor of Computer Science (Data Science focus) — Griffith University · GPA
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/satyamsharma]([https://linkedin.com/in/satyamsharma](https://www.linkedin.com/in/satyam-sharma-7bb457268/))
 - Email: Satyamsh04@gmail.com
 
 ---
