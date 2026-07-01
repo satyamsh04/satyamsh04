@@ -1,24 +1,54 @@
-# Hi, I'm Satyam Sharma 👋
+# Satyam Sharma
 
-🎓 **Bachelor of Computer Science (AI Major)** — Griffith University, Gold Coast  
-💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**  
-🌏 Based in **Gold Coast, Queensland, Australia**  
+AI engineering graduate building multi-agent systems, LLM evaluation pipelines, and production AI tooling. Based in Sydney, Australia — open to graduate AI/ML engineering roles in 2026.
 
-## 🛠️ Tech Stack
-`Python` `JavaScript` `Java` `Machine Learning` `SQL` `Git`
+---
 
-## 📂 University Projects
-| Repository | Status |
-|------------|--------|
-| [.ipynb-checkpoints](https://github.com/satyamsh04/.ipynb-checkpoints) | ✅ |
-| [ds4windows-v3.2.8](https://github.com/satyamsh04/ds4windows-v3.2.8) | ✅ |
-| [in-trimester-test-2024](https://github.com/satyamsh04/in-trimester-test-2024) | ✅ |
-| [items](https://github.com/satyamsh04/items) | ✅ |
-| [lab5](https://github.com/satyamsh04/lab5) | ✅ |
-| [mern-social-media-master](https://github.com/satyamsh04/mern-social-media-master) | ✅ |
-| [week8-project](https://github.com/satyamsh04/week8-project) | ✅ |
-| [workshop-6-material-partial](https://github.com/satyamsh04/workshop-6-material-partial) | ✅ |
+## What I Build
 
-## 📫 Connect
-- 💼 Open to **Graduate roles** in AI/Software Engineering
-- 📧 Reach me via GitHub Issues or LinkedIn
+- **Multi-agent AI systems** — autonomous pipelines with role-separated agents (Researcher, Analyst, Writer, Critic) using LangChain and OpenAI
+- **LLM evaluation & reliability** — automated scoring pipelines to benchmark agent accuracy, latency, and failure modes
+- **Production MCP servers** — Model Context Protocol servers integrating AWS S3, DynamoDB, Slack, and JWT auth for real-world data annotation workflows
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**AI/ML:** OpenAI API · LangChain · Streamlit · MCP Protocol · Ollama
+
+**Cloud/Infra:** AWS S3 · DynamoDB · Vercel
+
+**Tools:** Git · VS Code · Cursor IDE · Docker
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ai-email-assistant](https://github.com/satyamsh04/ai-email-assistant) | Multi-agent email triage, draft & reply pipeline — WIL industry project | Python · OpenAI · LangChain |
+| [agent-eval-pipeline](https://github.com/satyamsh04/agent-eval-pipeline) | Automated evaluation & reliability scoring for LLM agents | TypeScript · OpenAI |
+| [multi-agent-research-assistant](https://github.com/satyamsh04/multi-agent-research-assistant) | 4-agent research report pipeline with Critic revision loop & Streamlit UI | Python · LangChain · Streamlit |
+| [custom-mcp-server](https://github.com/satyamsh04/custom-mcp-server) | Production MCP server — S3, DynamoDB, Slack, JWT auth | TypeScript · AWS · MCP |
+
+---
+
+## Education
+
+Bachelor of Computer Science (Data Science focus) — Griffith University · GPA 4.83 · Graduating Nov 2026
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/satyamsharma](https://linkedin.com/in/satyamsharma)
+- Email: your.email@example.com
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamsh04&show_icons=true&theme=dark&hide_border=true)
