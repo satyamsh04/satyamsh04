@@ -1,6 +1,6 @@
 # Satyam Sharma
 
-AI engineering graduate building multi-agent systems, LLM evaluation pipelines, and production AI tooling. Based in Gold Coast, Australia — open to graduate AI/ML engineering roles in 2026.
+AI engineering graduate building multi-agent systems, LLM evaluation pipelines, and production AI tooling. Based in Sydney, Australia — open to graduate AI/ML engineering roles in 2026.
 
 ---
 
@@ -46,8 +46,9 @@ Bachelor of Computer Science (Data Science focus) — Griffith University · GPA
 
 ## Contact
 
+- LinkedIn: [linkedin.com/in/satyam-sharma](https://linkedin.com/in/satyam-sharma)
 - Email: Satyamsh04@gmail.com
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamsh04&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamsh04&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
